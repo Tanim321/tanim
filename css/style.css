@@ -1,0 +1,70 @@
+ul li{
+   
+   list-style: none;
+   display: inline;
+   }  
+
+   ul li a {
+    color: darkred;
+    padding: 15px;
+    text-decoration: none;
+    margin-right: 122px;
+}
+.tanim1 {
+    margin-left: 298px;
+}
+
+body{background: url(../img/tanim1.png);
+     background-repeat: no-repeat;
+
+
+
+}    
+.log-in {
+    width: 422px;
+    background:transparent;
+    box-shadow: -4px 3px 8px 3px black;
+    display: block;
+    margin: auto;
+    padding: 18px;
+}
+.eml {
+    width: 235px;
+    margin-left: 85px;
+    border: none;
+    background-color: #27efaf;
+}
+.btn {
+    background: rgb(4, 199, 4);
+    margin-left: 182px;
+    margin-top: 9px;
+    border: none;
+}
+.pd {
+    background: #3567c2;
+    width: 521px;
+    margin-left: 497px;
+    margin-top: 37px;
+    border: #b42d2d dashed;
+}
+.pd2 {
+    width: 314px;
+    height: 112px;
+    margin-top: 57px;
+    margin-left: 127px;
+    border: #4effad solid;
+}
+.pd3 {
+    width: 318px;
+    margin-left: 1009px;
+    margin-top: -116px;
+    border: #b42d2d solid;
+}
+.container {
+    margin-left: 647px;
+}
+.hrst{
+      color: aqua;
+
+
+}
